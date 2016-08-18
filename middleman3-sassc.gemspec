@@ -22,5 +22,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rake', '~> 10.0'
   spec.add_runtime_dependency 'sassc', ['>= 1.7', '< 2']
   spec.add_runtime_dependency 'sassc-rails', ['>= 1.1', '< 2']
-  spec.add_runtime_dependency 'middleman-core', ['>= 3.3.0', '< 4.0.0']
+  spec.add_runtime_dependency 'middleman-core', ['>= 3.3.0']
 end
